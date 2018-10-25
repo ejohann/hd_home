@@ -1,0 +1,35 @@
+ @media screen and (max-width: 1097px)
+  {
+     .container
+      {
+         max-width: 100%;
+      }
+  }
+ .container
+  {
+     width: 1080px;
+     margin: 0 auto;
+     background-color: #FFFFFF;
+  }  
+ body
+  {
+     background-color: #000000;
+  }
+ img
+  {
+     max-width: 100%;
+     height: auto;
+  }
+ .coming_soon
+  {
+     text-align: center;
+     color: #FFFFFF;
+     font-size: 8em;
+  }
+ .copyright
+  {
+     text-align: center;
+     color: #FFFFFF;
+     font-size: 1em;
+  }
+  
